@@ -4,7 +4,6 @@ class Backer
 
   def initialize
     @name = name
-    @title = title 
+    @title = title
   end
 end
-
